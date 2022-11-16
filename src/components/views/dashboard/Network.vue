@@ -4,7 +4,7 @@
       class="transform lg:(text-7xl translate-x-[calc(-1em-36px)]) <lg:(text-4xl translate-x-[calc(-1em-16px)]) mt-10"
     >
       <a @click="emit('back')">
-        <ArrowUpIcon class="lg:text-7xl <lg:text-4xl transform translate-y-[0.2em] cursor-pointer" />
+        <ArrowUpIcon class="lg:text-6xl <lg:text-4xl transform translate-y-[0.2em] cursor-pointer" />
       </a>
       About Our Network
     </div>

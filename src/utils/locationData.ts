@@ -28,4 +28,10 @@ export const locationData: Location[] = [
     lat: '50.098850',
     lng: '8.632004',
   },
+  {
+    name: 'Beijing, China',
+    description: '<font color="yellow">Facilities:</font></br>ZH NETWORK Beijing CN1</br><font color="yellow">Upstreams:</font></br>ZHNET Europe/ZHNET America',
+    lat: '39.9869',
+    lng: '116.3059',
+  },
 ];
