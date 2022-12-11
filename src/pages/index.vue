@@ -33,7 +33,7 @@ useHead({
   link: [
     {
       rel: 'icon',
-      href: '@/assets/texture/zhnetremovebg-cut.png',
+      href: 'https://ixp.ee/zhnetremovebg-cut.png',
     },
   ],
   meta: [
@@ -64,7 +64,7 @@ useHead({
     },
     {
       property: 'twitter:image',
-      content: '@/assets/texture/zhnetremovebg-cut.png',
+      content: 'https://ixp.ee/zhnetremovebg-cut.png',
     },
     {
       property: 'twitter:site',
@@ -76,7 +76,7 @@ useHead({
     },
     {
       property: 'og:image',
-      content: '@/assets/texture/zhnetremovebg-cut.png',
+      content: 'https://ixp.ee/zhnetremovebg-cut.png',
     },
   ],
 });
