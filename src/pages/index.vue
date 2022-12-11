@@ -33,7 +33,7 @@ useHead({
   link: [
     {
       rel: 'icon',
-      href: 'https://dp2-9gqbw0qaf681fbec-1305978723.tcloudbaseapp.com/zhnet/logoonly-removebg-preview.png',
+      href: '@/assets/texture/zhnetremovebg-cut.png',
     },
   ],
   meta: [
@@ -64,7 +64,7 @@ useHead({
     },
     {
       property: 'twitter:image',
-      content: 'https://dp2-9gqbw0qaf681fbec-1305978723.tcloudbaseapp.com/cnit-imgs/zhnetwork.png',
+      content: '@/assets/texture/zhnetremovebg-cut.png',
     },
     {
       property: 'twitter:site',
@@ -76,7 +76,7 @@ useHead({
     },
     {
       property: 'og:image',
-      content: 'https://dp2-9gqbw0qaf681fbec-1305978723.tcloudbaseapp.com/cnit-imgs/zhnetwork.png',
+      content: '@/assets/texture/zhnetremovebg-cut.png',
     },
   ],
 });
